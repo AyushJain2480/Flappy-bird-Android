@@ -15,6 +15,3 @@ GDX lib
 Android
 Android Studio
 
-##Preview
-
-To view the project, you need clone the repository or do the download .zip on GitHub and open the application by ![Android Studio](https://developer.android.com/studio/install?hl=pt-br).
