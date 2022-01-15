@@ -11,7 +11,10 @@ I Created an Android Java app that simulates the original FlappyBird game using 
 # Technologies
 
 Java
+
 GDX lib
+
 Android
+
 Android Studio
 
