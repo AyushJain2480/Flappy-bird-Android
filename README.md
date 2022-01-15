@@ -1,1 +1,1 @@
-# Flappy-bird-Android
+# FlappyBird
